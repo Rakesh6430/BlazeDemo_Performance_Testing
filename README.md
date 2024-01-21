@@ -1,6 +1,6 @@
 # Performance-Testing-On-BlazeDemo
 
-Here, I performed Performance testing on [BlazeMeterDemo](https://blazedemo.com/)
+Here, I performed Performance testing on [BlazeDemo](https://blazedemo.com/)
 - Numbers of Threads(users) : 2000
 - Ramp-up-period : 5 sec
 
