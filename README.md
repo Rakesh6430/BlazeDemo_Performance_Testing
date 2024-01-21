@@ -1,4 +1,4 @@
-# Performance-Testing-On-BlazemeterDemo
+# Performance-Testing-On-BlazeDemo
 
 Here, I performed Performance testing on [BlazeMeterDemo](https://blazedemo.com/)
 - Numbers of Threads(users) : 2000
