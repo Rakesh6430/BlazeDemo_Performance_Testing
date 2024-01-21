@@ -1,6 +1,8 @@
 # Performance-Testing-On-BlazemeterDemo
 
 Here, I performed Performance testing on [BlazeMeterDemo](https://blazedemo.com/)
+- Numbers of Threads(users) : 2000
+- Ramp-up-period : 5 sec
 
 ## Technology and Tool Used
 - Apache Jmeter
