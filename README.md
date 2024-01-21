@@ -18,3 +18,6 @@ Here, I performed Performance testing on [BlazeMeterDemo](https://blazedemo.com/
 
 ## Prerequisite
 - Java & Jmeter must be installed
+
+## Performance Testing Report
+- [Report](https://fascinating-rabanadas-0deba4.netlify.app/)
