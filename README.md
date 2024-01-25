@@ -21,3 +21,4 @@ Here, I performed Performance testing on [BlazeDemo](https://blazedemo.com/)
 
 ## Performance Testing Report
 - [Report](https://fascinating-rabanadas-0deba4.netlify.app/)
+- [CSV File](https://drive.google.com/file/d/1u20a-KfxhKbqycy0WiFxcHx3TNUPHKdN/view?usp=sharing)
